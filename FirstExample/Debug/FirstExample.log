@@ -1,0 +1,3 @@
+﻿  Triangles.cpp
+c:\users\gareth\desktop\proj\og\l2_solarsystem_challenge\opengl_starter_kit\firstexample\triangles.cpp(221): warning C4305: '+=': truncation from 'double' to 'float'
+  FirstExample.vcxproj -> C:\Users\Gareth\Desktop\proj\og\L2_SolarSystem_Challenge\OpenGL_Starter_Kit\Debug\FirstExample.exe
